@@ -1,5 +1,5 @@
 # 🛠️ Natrix Multi Tool ✨
- | [Developer](https://github.com/natrixdev) | [Free Tool(https://github.com/natrixdev/natrix-mutltiTool/tree/main/FreeTool) | [Paid Tool](https://github.com/natrixdev/natrix-mutltiTool/tree/main/PaidTool)
+ |⚙️ [Developer](https://github.com/natrixdev) ⚙️ | 🙂 [Free Tool](https://github.com/natrixdev/natrix-mutltiTool/tree/main/FreeTool) 🙂 | 💎 [Paid Tool](https://github.com/natrixdev/natrix-mutltiTool/tree/main/PaidTool) 💎 |
 
 👜 The free tool includes: 
 - A nitro generator 
